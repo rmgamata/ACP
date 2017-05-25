@@ -2,17 +2,14 @@ CallFlow,CallTransfer,CallLogs
 "MainMenuNI1
 MainMenu
 FraudInfoNav_5
-FraudInfoNav_1","LanguageField=En;
-GenesysClient=wunion;
-SkillField=7999;
-VRUTranTypeField = IVR EN;",e4010-20170426185718000-384.txt
+FraudInfoNav_1",cath,e4010-20170426185718000-384.txt
 "TriageMenu_1
 REFAddressConfNoBarge_1",,e3129-20170511162642241-523.txt
 4125,transfertype_module=Billing;,e3129-20170511162642241-523.txt
  ,,
 "MainMenuNI1
 MainMenu
-MainMenuNI2",skillfield=7999;,e4010-20170504174713447-896.txt
+MainMenuNI2",sadsad,e4010-20170504174713447-896.txt
 MainMenu,,
 FraudInfoNav_2,,
 hello,,
